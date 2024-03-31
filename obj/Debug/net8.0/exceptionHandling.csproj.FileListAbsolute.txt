@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\exceptionHandling\bin\Debug\net8.0\exceptionHandling.exe
+C:\Users\sumey\Source\repos\exceptionHandling\bin\Debug\net8.0\exceptionHandling.deps.json
+C:\Users\sumey\Source\repos\exceptionHandling\bin\Debug\net8.0\exceptionHandling.runtimeconfig.json
+C:\Users\sumey\Source\repos\exceptionHandling\bin\Debug\net8.0\exceptionHandling.dll
+C:\Users\sumey\Source\repos\exceptionHandling\bin\Debug\net8.0\exceptionHandling.pdb
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.dll
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\refint\exceptionHandling.dll
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.pdb
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\exceptionHandling.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\exceptionHandling\obj\Debug\net8.0\ref\exceptionHandling.dll
